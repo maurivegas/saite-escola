@@ -1,1 +1,1 @@
-# sate-escola
+# site-escola
